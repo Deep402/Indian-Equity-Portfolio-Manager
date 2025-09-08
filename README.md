@@ -1,0 +1,1 @@
+# Indian-Equity-Portfolio-Manager
