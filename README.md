@@ -1,7 +1,5 @@
 # Indian-Equity-Portfolio-Manager
 
-# Indian Equity Portfolio Manager
-
 A comprehensive portfolio management system for Indian equity investors with broker integration, real-time data, and advanced analytics.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
