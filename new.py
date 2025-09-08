@@ -39,8 +39,8 @@ MAX_WORKERS = 5
 REFRESH_INTERVAL = 2  # seconds
 
 # Zerodha Kite API Configuration
-KITE_API_KEY = "10dwxigaaf05cuen"
-KITE_API_SECRET = "odisj44bfo1m3d2yzm6gc7jw24jtioe4"  # Replace with your actual API secret
+KITE_API_KEY = "Your API key"
+KITE_API_SECRET = ""  # Replace with your actual API secret
 KITE_BASE_URL = "https://api.kite.trade"
 KITE_HOLDINGS_ENDPOINT = "/portfolio/holdings"
 KITE_POSITIONS_ENDPOINT = "/portfolio/positions"
@@ -48,7 +48,7 @@ KITE_TOKEN_URL = "/session/token"
 
 # Dhan (Angel Broking) configuration
 DHAN_BASE_URL = "https://api.dhan.co/v2"
-DHAN_ACCESS_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJkaGFuIiwicGFydG5lcklkIjoiIiwiZXhwIjoxNzU5Mjc1MTg2LCJ0b2tlbkNvbnN1bWVyVHlwZSI6IlNFTEYiLCJ3ZWJob29rVXJsIjoiIiwiZGhhbkNsaWVudElkIjoiMTEwMTgwODg4MiJ9.gVShaCW6xBgaqMsyy7uzJbJQ4gGbHtUJc60nsW2BWUXpYN6PMsKe6kVK2vWdAmuoysuJNOmW_CJXY1ChAsnhgg"
+DHAN_ACCESS_TOKEN = "Your Dhan Access Token"
 
 TABLE_STYLE = {
     "width": 120,
